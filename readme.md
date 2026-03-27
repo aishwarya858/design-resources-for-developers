@@ -242,6 +242,8 @@ Available for MacOS, Linux, & Windows<br>
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
+| [Realtime Colors](https://www.realtimecolors.com/) - Visualize your color palettes on a real website instantly.      |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1515,6 +1517,9 @@ Available for MacOS, Linux, & Windows<br>
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
+| [Omatsuri](https://omatsuri.app/) - A progressive web app with everyday open-source web tools for developers.     |
+
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
